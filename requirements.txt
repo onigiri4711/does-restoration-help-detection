@@ -1,0 +1,15 @@
+# All notebooks (stages 1-3). The runs used the Kaggle GPU image (Oct-Nov 2026), which has these preinstalled
+# except bm3d; versions were not pinned.
+numpy
+scipy
+pandas
+matplotlib
+scikit-image
+opencv-python-headless
+jupyter
+torch
+torchvision
+ultralytics
+pycocotools
+bm3d
+kagglehub
